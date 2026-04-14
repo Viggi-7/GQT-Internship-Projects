@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.app { max-width: 900px; margin: 0 auto; }
+.emp-table { width:100%; border-collapse: collapse; margin-top: 10px; }
+.emp-table th, .emp-table td { border:1px solid #ddd; padding:8px; text-align:left; }
+.emp-form input { display:block; margin:6px 0; padding:6px; width: 300px; }
+.toolbar { display:flex; gap:8px; align-items:center; margin-bottom:8px; }
+.pager { margin-top: 10px; }
